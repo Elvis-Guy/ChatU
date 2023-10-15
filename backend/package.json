@@ -1,4 +1,10 @@
 {
+
+
+  "scripts": {
+    "dev": "nodemon index.js",
+    "build": "yarn install"
+  },
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cookie-parser": "^1.4.6",
