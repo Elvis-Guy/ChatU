@@ -1,6 +1,6 @@
 # ChatU
 
-![Description](Images/Screenshot 2023-10-15 192849.png)
+![Description](Images/image.png)
 
 ## Project Description
 
@@ -38,8 +38,10 @@ The ChatU project aims to develop a real-time chat application that allows users
 ### Video Description of the project
 
 <video controls width="480" height="270">
-  <source src="video.mp4" type="video/mp4">
+  <source src="Images/videochat.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
+### Author
 
+[guyelvisbakunzi@gmail.com](mailto:guyelvisbakunzi@gmail.com)
