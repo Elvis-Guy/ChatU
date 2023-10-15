@@ -37,10 +37,7 @@ The ChatU project aims to develop a real-time chat application that allows users
 
 ### Video Description of the project
 
-<video controls width="480" height="270">
-  <source src="Images/videochat.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/Elvis-Guy/ChatU/assets/104826115/6b1443e2-c7f3-4b9b-8eb6-bd4265219e4e
 
 ### Author
 
